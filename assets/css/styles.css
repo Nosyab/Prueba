@@ -1,0 +1,40 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+  color:#ffff
+
+  }
+
+footer{background-color: rgb(52, 194, 194);
+}
+
+html{ scroll-behavior:smooth;
+}
+
+.forma{margin-bottom:  30px;
+
+}
+
+.card-body{ background-color: rgb(52, 194, 194);
+}
+
+.iconos{background:
+  rgb(52, 194, 194);
+}
+
+.card-img-top{
+  height: 160px;
+}
+
+.icono-grande{ font-size: 30px;
+  color: #ffff;
+  
+}
+
+.viaje-mon{font-size: 30px;
+}
+
+p{color: #ffff;
+}
